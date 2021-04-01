@@ -454,11 +454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mint/workspace/Api/Api.csproj",
+      "projectUniqueName": "/home/mint/workspace/Dio.Api_Mongo/Api.csproj",
       "projectName": "Api",
-      "projectPath": "/home/mint/workspace/Api/Api.csproj",
+      "projectPath": "/home/mint/workspace/Dio.Api_Mongo/Api.csproj",
       "packagesPath": "/home/mint/.nuget/packages/",
-      "outputPath": "/home/mint/workspace/Api/obj/",
+      "outputPath": "/home/mint/workspace/Dio.Api_Mongo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mint/.nuget/NuGet/NuGet.Config"
